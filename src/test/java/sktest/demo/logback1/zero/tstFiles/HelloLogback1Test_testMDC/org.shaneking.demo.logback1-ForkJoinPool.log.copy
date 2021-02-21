@@ -1,0 +1,6 @@
+2021-02-21 13:38:54.106 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[62]}
+2021-02-21 13:38:54.120 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[63]}
+2021-02-21 13:38:54.132 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[64]}
+2021-02-21 13:38:54.132 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[65]}
+2021-02-21 13:38:54.143 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[66]}
+2021-02-21 13:38:54.144 INFO  main sktest.demo.logback1.zero.HelloLogback1Test:24 - {"p":[67]}
